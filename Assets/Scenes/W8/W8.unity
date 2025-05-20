@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 474231561}
   - component: {fileID: 474231563}
   - component: {fileID: 474231562}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: Shiba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -357,7 +357,7 @@ GameObject:
   - component: {fileID: 1514123072}
   - component: {fileID: 1514123071}
   - component: {fileID: 1514123070}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
